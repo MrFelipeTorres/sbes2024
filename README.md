@@ -1,3 +1,3 @@
 # sbes2024
 
-"sbes2024.csv" is an file where there is a results about paper's search string.
+"sbes2024.csv" is a file with results about the paper's search string.
